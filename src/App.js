@@ -32,7 +32,7 @@ class App extends Component {
   }
 
   render() {
-    const {contacts} = this.state.contacts;
+    const { contacts } = this.state.contacts;
 
     return (
       <div>
